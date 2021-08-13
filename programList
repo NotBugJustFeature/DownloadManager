@@ -1,3 +1,16 @@
 lightcord;v0.1.9-64bit;https://github.com/Lightcord/Lightcord/releases/download/v0.1.9/LightcordSetup.exe
 discord;latest;https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
 lightcord;v0.1.9-32bit;https://github.com/Lightcord/Lightcord/releases/download/v0.1.9/lightcord-win32.exe
+vlc;3.0.16-32bit;https://mirror.szerverem.hu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe
+vlc;3.0.16-64bit;https://mirror.szerverem.hu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe
+7-zip;1900-64bit;https://www.7-zip.org/a/7z1900-x64.exe
+7-zip;1900-32bit;https://www.7-zip.org/a/7z1900.exe
+anydesk;latest;https://download.anydesk.com/AnyDesk.exe
+cpu-id;1.96;https://download.cpuid.com/cpu-z/cpu-z_1.96-en.exe
+cheat engine;7.2;https://d3ohof3yxlgv7v.cloudfront.net/installer/8024009318923/08266951
+mozilla firefox;latest;https://download.mozilla.org/?product=firefox-stub&os=win
+hwinfo;706;https://www.hwinfo.com/files/hwi_706.exe
+libre office;7.1.5-32bit;https://download.documentfoundation.org/libreoffice/stable/7.1.5/win/x86/LibreOffice_7.1.5_Win_x86.msi
+libre office;7.1.5-64bit;https://download.documentfoundation.org/libreoffice/stable/7.1.5/win/x86_64/LibreOffice_7.1.5_Win_x64.msi
+winrar;602-64bit;https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-602.exe
+winrar;602-32bit;https://www.win-rar.com/fileadmin/winrar-versions/winrar/wrar602.exe
