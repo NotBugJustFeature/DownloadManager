@@ -29,3 +29,12 @@ EpicGamesLauncher;latest;https://launcher-public-service-prod06.ol.epicgames.com
 Steam;latest;https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
 Origin;latest;http://www.dm.origin.com/download
 Uplay;latest;https://ubi.li/4vxt9
+Spotify;latest;https://download.scdn.co/SpotifySetup.exe
+TeamViewer;latest-x64;https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe
+TeamViewer;latest-x86;https://download.teamviewer.com/download/TeamViewer_Setup.exe
+SublimeText;v4113-x64-Setup;https://download.sublimetext.com/sublime_text_build_4113_x64_setup.exe
+SublimeText;v4113-x64-Portable;https://download.sublimetext.com/sublime_text_build_4113_x64.zip
+VSCode;latest-x64-install;https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+VSCode;latest-x86-install;https://code.visualstudio.com/sha/download?build=stable&os=win32-user
+VSCode;latest-x86-zip;https://code.visualstudio.com/sha/download?build=stable&os=win32-archive
+VSCode;latest-x64-zip;https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-archive
