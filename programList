@@ -1,7 +1,7 @@
 
 lightcord;v0.1.9-64bit;https://github.com/Lightcord/Lightcord/releases/download/v0.1.9/LightcordSetup.exe
-discord;latest;https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
 lightcord;v0.1.9-32bit;https://github.com/Lightcord/Lightcord/releases/download/v0.1.9/lightcord-win32.exe
+discord;latest;https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
 vlc;3.0.16-32bit;https://mirror.szerverem.hu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe
 vlc;3.0.16-64bit;https://mirror.szerverem.hu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe
 7-zip;1900-64bit;https://www.7-zip.org/a/7z1900-x64.exe
@@ -38,3 +38,13 @@ VSCode;latest-x64-install;https://code.visualstudio.com/sha/download?build=stabl
 VSCode;latest-x86-install;https://code.visualstudio.com/sha/download?build=stable&os=win32-user
 VSCode;latest-x86-zip;https://code.visualstudio.com/sha/download?build=stable&os=win32-archive
 VSCode;latest-x64-zip;https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-archive
+ShareX;v13.5.0-setup;https://github.com/ShareX/ShareX/releases/download/v13.5.0/ShareX-13.5.0-setup.exe
+ShareX;v13.5.0-Portable;https://github.com/ShareX/ShareX/releases/download/v13.5.0/ShareX-portable.zip
+WinCDEmu;v4.1-install;https://github.com/sysprogs/WinCDEmu/releases/download/v4.1/WinCDEmu-4.1.exe
+WinCDEmu;v4.1-Portable;https://github.com/sysprogs/WinCDEmu/releases/download/v4.1/PortableWinCDEmu-4.0.exe
+OperaGX;latest-x64;https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+GX&arch=x64
+OperaGX;latest-x86https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+GX&arch=i386
+Brave;latest-x32;https://laptop-updates.brave.com/latest/winia32
+Brave;latest-x64;https://laptop-updates.brave.com/latest/winx64
+Vivaldi;v4.1.2369.21-x86;https://downloads.vivaldi.com/stable/Vivaldi.4.1.2369.21.exe
+Vivaldi;v4.1.2369.21-x64;https://downloads.vivaldi.com/stable/Vivaldi.4.1.2369.21.x64.exe
