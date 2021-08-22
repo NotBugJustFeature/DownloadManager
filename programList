@@ -24,3 +24,7 @@ NET 5.0;5.0.400-SDK-win64;https://download.visualstudio.microsoft.com/download/p
 NET 5.0;5.0.400-SDK-win86;https://download.visualstudio.microsoft.com/download/pr/3ac5df29-caba-40f8-aeea-6e7a900dcfcc/a28a5c80da9e9971db504ff86da2e0ba/dotnet-sdk-5.0.400-win-x86.exe
 NET 5.0;5.0.9-Runtime-win64;https://download.visualstudio.microsoft.com/download/pr/f3bb58e7-45e1-46ef-9b90-877a450e345e/b18e3d2c429422e9c1238c9b66ded855/dotnet-runtime-5.0.9-win-x64.exe
 NET 5.0;5.0.9-Runtime-win86;https://download.visualstudio.microsoft.com/download/pr/334f5618-b0fa-474c-b55e-1d10c9142161/61eb66bf79d0e6cf36f894a5fe847634/dotnet-runtime-5.0.9-win-x86.exe
+EpicGamesLauncher;latest;https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
+Steam;latest;https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
+Origin;latest;http://www.dm.origin.com/download
+Uplay;latest;https://ubi.li/4vxt9
