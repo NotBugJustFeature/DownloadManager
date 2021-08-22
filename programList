@@ -14,3 +14,6 @@ libre office;7.1.5-32bit;https://download.documentfoundation.org/libreoffice/sta
 libre office;7.1.5-64bit;https://download.documentfoundation.org/libreoffice/stable/7.1.5/win/x86_64/LibreOffice_7.1.5_Win_x64.msi
 winrar;602-64bit;https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-602.exe
 winrar;602-32bit;https://www.win-rar.com/fileadmin/winrar-versions/winrar/wrar602.exe
+dnSpy;v6.1.8-win32;https://github.com/dnSpy/dnSpy/releases/download/v6.1.8/dnSpy-net-win32.zip
+dnSpy;v6.1.8-win64;https://github.com/dnSpy/dnSpy/releases/download/v6.1.8/dnSpy-net-win64.zip
+DepotDownloader;v2.4.4;https://github.com/SteamRE/DepotDownloader/releases/download/DepotDownloader_2.4.4/depotdownloader-2.4.4.zip
