@@ -17,3 +17,10 @@ winrar;602-32bit;https://www.win-rar.com/fileadmin/winrar-versions/winrar/wrar60
 dnSpy;v6.1.8-win32;https://github.com/dnSpy/dnSpy/releases/download/v6.1.8/dnSpy-net-win32.zip
 dnSpy;v6.1.8-win64;https://github.com/dnSpy/dnSpy/releases/download/v6.1.8/dnSpy-net-win64.zip
 DepotDownloader;v2.4.4;https://github.com/SteamRE/DepotDownloader/releases/download/DepotDownloader_2.4.4/depotdownloader-2.4.4.zip
+OBS-Studio;v27.0.1-x64-Installer;https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.0.1-Full-Installer-x64.exe
+OBS-Studio;v27.0.1-x86-Installer;https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.0.1-Full-Installer-x86.exe
+OBS-Studio;v27.0.1-x64-Zip;https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.0.1-Full-x64.zip
+NET 5.0;5.0.400-SDK-win64;https://download.visualstudio.microsoft.com/download/pr/c1bfbb13-ad09-459c-99aa-8971582af86e/61553270dd9348d7ba29bacfbb4da7bd/dotnet-sdk-5.0.400-win-x64.exe
+NET 5.0;5.0.400-SDK-win86;https://download.visualstudio.microsoft.com/download/pr/3ac5df29-caba-40f8-aeea-6e7a900dcfcc/a28a5c80da9e9971db504ff86da2e0ba/dotnet-sdk-5.0.400-win-x86.exe
+NET 5.0;5.0.9-Runtime-win64;https://download.visualstudio.microsoft.com/download/pr/f3bb58e7-45e1-46ef-9b90-877a450e345e/b18e3d2c429422e9c1238c9b66ded855/dotnet-runtime-5.0.9-win-x64.exe
+NET 5.0;5.0.9-Runtime-win86;https://download.visualstudio.microsoft.com/download/pr/334f5618-b0fa-474c-b55e-1d10c9142161/61eb66bf79d0e6cf36f894a5fe847634/dotnet-runtime-5.0.9-win-x86.exe
