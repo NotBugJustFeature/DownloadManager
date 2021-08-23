@@ -43,7 +43,7 @@ ShareX;v13.5.0-Portable;https://github.com/ShareX/ShareX/releases/download/v13.5
 WinCDEmu;v4.1-install;https://github.com/sysprogs/WinCDEmu/releases/download/v4.1/WinCDEmu-4.1.exe
 WinCDEmu;v4.1-Portable;https://github.com/sysprogs/WinCDEmu/releases/download/v4.1/PortableWinCDEmu-4.0.exe
 OperaGX;latest-x64;https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+GX&arch=x64
-OperaGX;latest-x86https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+GX&arch=i386
+OperaGX;latest-x86;https://download.opera.com/download/get/?partner=www&opsys=Windows&product=Opera+GX&arch=i386
 Brave;latest-x32;https://laptop-updates.brave.com/latest/winia32
 Brave;latest-x64;https://laptop-updates.brave.com/latest/winx64
 Vivaldi;v4.1.2369.21-x86;https://downloads.vivaldi.com/stable/Vivaldi.4.1.2369.21.exe
